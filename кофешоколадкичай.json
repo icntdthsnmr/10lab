@@ -1,0 +1,1 @@
+{"products": [{"name": "Chocolate", "price": 50, "available": true, "weight": 100}, {"name": "Coffee", "price": 100, "available": false, "weight": 250}, {"name": "Tea", "price": 70, "available": true, "weight": 50}, {"name": "bread", "price": 50, "available": true, "weight": 60}, {"name": "\u0445\u043b\u0435\u0431", "price": 50, "available": true, "weight": 20}]}
